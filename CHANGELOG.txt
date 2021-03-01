@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+0.7.1a4
+-------
+Better RPi board + peri_addr detection (issue 190 / 191)
+
 0.7.1a3
 -------
 Fix PyEval_InitThreads deprecation warning for Python 3.9 (issue 188)
